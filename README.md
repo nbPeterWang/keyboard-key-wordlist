@@ -22,7 +22,7 @@ $ | 美元符号 | Dollar sign or generic currency.
 \}	| 右大括号，右花括号	| Close brace, squiggly brackets, or curly bracket.
 \[	| 左中括号，左方括号	| Open bracket.
 \]	| 右中括号，右方括号	| Closed bracket.
-\|		| 竖线	| Pipe, or, or vertical bar.
+\|		| 竖线	| Pipe or vertical bar.
 \\	| 反斜杠，反斜线	| Backslash or reverse solidus.
 /		| 正斜杠，正斜线，除法符号	| Forward slash, solidus, virgule, whack, and mathematical division symbol.
 :	| 冒号	| Colon.
