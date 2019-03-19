@@ -13,7 +13,7 @@ $ | 美元符号 | Dollar sign or generic currency.
 &	| 与和符	| Ampersand, epershand, or and symbol.
 \*	| 星号，数学乘号	| Asterisk, mathematical multiplication symbol, and sometimes referred to as star.
 (	| 左小括号，左圆括号	| Open parenthesis.
-)	| 右小括号，右圆括号	| ;Close parenthesis.
+)	| 右小括号，右圆括号	| Close parenthesis.
 \-	| 破折号或连字符	| Hyphen, minus or dash.
 \_	| 下划线	| Underscore.
 \+	| 加号	| Plus.
