@@ -1,67 +1,67 @@
 # 整理了包括“/”、“\"、”^"等所有键盘符号的中英文单词表
 
-~	Tilde.
+~	   波浪号 Tilde.
 
-\`	Acute, back quote, grave, grave accent, left quote, open quote, or a push.
+\`	 刻度线，反引号，左引号 Acute, back quote, grave, grave accent, left quote, open quote, or a push.
 
-\!	Exclamation mark, exclamation point, or bang.
+\!   感叹号  Exclamation mark, exclamation point, or bang.
 
-@	Ampersat, arobase, asperand, at, or at symbol.
+@	   艾特 Ampersat, arobase, asperand, at, or at symbol.
 
-\#	Octothorpe, number, pound, sharp, or hash.
+\#   井号 Octothorpe, number, pound, sharp, or hash.
 
-$	Dollar sign or generic currency.
+$	   美元符号 Dollar sign or generic currency.
 
-%	Percent.
+%	   百分号 Percent.
 
-°	Degree.
+°	   度数 Degree.
 
-^	Caret or circumflex.
+^	   脱字符 Caret or circumflex.
 
-&	Ampersand, epershand, or and symbol.
+&	   与和符 Ampersand, epershand, or and symbol.
 
-\*	Asterisk, mathematical multiplication symbol, and sometimes referred to as star.
+\*	 星号，数学乘号 Asterisk, mathematical multiplication symbol, and sometimes referred to as star.
 
-(	Open parenthesis.
+(	   左小括号，左圆括号 Open parenthesis.
 
-)	Close parenthesis.
+)	   右小括号，右圆括号 Close parenthesis.
 
-\-	Hyphen, minus or dash.
+\-	 破折号或连字符 Hyphen, minus or dash.
 
-\_	Underscore.
+\_	 下划线 Underscore.
 
-\+	Plus.
+\+	 加号 Plus.
 
-\=  Equal. 
+\=   等号 Equal. 
 
-\{	Open brace, squiggly brackets, or curly bracket.
+\{	 左大括号，左花括号 Open brace, squiggly brackets, or curly bracket.
 
-\}	Close brace, squiggly brackets, or curly bracket.
+\}	 右大括号，右花括号 Close brace, squiggly brackets, or curly bracket.
 
-\[	Open bracket.
+\[	 左中括号，左方括号 Open bracket.
 
-\]	Closed bracket.
+\]	 右中括号，右方括号 Closed bracket.
 
-|	Pipe, or, or vertical bar.
+|	   竖线 Pipe, or, or vertical bar.
 
-\\	Backslash or reverse solidus.
+\\	 反斜杠，反斜线Backslash or reverse solidus.
 
-/	Forward slash, solidus, virgule, whack, and mathematical division symbol.
+/	   正斜杠，正斜线，除法符号Forward slash, solidus, virgule, whack, and mathematical division symbol.
 
-:	Colon.
+:	   冒号 Colon.
 
-;	Semicolon.
+;	   分号 Semicolon.
 
-"	Quote, quotation mark, or inverted commas.
+"	   双引号 Quote, quotation mark, or inverted commas.
 
-'	Apostrophe or single quote.
+'	   单引号 Apostrophe or single quote.
 
-<	Less than or angle brackets.
+<	   小于号 Less than or angle brackets.
 
-\>	Greater than or angle brackets.
+\>	 大于号 Greater than or angle brackets.
 
-,	Comma.
+,	   逗号 Comma.
 
-\.	Period, dot or full stop.
+\.	 句号，点Period, dot or full stop.
 
-?	Question mark.
+?	   问号 Question mark.
