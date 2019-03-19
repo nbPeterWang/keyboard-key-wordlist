@@ -9,7 +9,7 @@
 $ | 美元符号 | Dollar sign or generic currency.
 % | 百分号 | Percent.
 °	| 度数 | Degree.
-^	| 脱字符	| Caret or circumflex.
+^	| 脱字符	| Caret, circumflex or mathematical hat operator.
 &	| 与和符	| Ampersand, epershand, or and symbol.
 \*	| 星号，数学乘号	| Asterisk, mathematical multiplication symbol, and sometimes referred to as star.
 (	| 左小括号，左圆括号	| Open parenthesis.
