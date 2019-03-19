@@ -2,11 +2,8 @@
 符号|中文|英文
 -|-|-
 ~ | 波浪号 | Tilde.
-
 \` | 刻度线，反引号，左引号 | Acute, back quote, grave, grave accent, left quote, open quote, or a push.
-
 \! | 感叹号 | Exclamation mark, exclamation point, or bang.
-
 @ | 艾特 | Ampersat, arobase, asperand, at, or at symbol.
 
 \# | 井号 | Octothorpe, number, pound, sharp, or hash.
