@@ -1,5 +1,6 @@
 # 整理了包括“/”、“\"、”^"等所有键盘符号的中英文单词表
 符号|中文|英文
+-|-|-
 ~ | 波浪号 | Tilde.
 
 \` | 刻度线，反引号，左引号 | Acute, back quote, grave, grave accent, left quote, open quote, or a push.
